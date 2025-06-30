@@ -3,6 +3,7 @@
 This is a self-built Power BI project that analyzes product performance using real business metrics and consulting principles. I created this project independently to deepen my skills in DAX, business thinking, and dashboard storytelling. It explores how customer behavior, revenue trends, and product dynamics influence strategic decisions.
 
  PPT: https://github.com/06-10-2004/product-analytics-Powerbi-dashboard/raw/refs/heads/main/compressed_From-Data-to-Decisions-A-Product-Analytics-Journey%20(1).pptx
+ 
  LINKEDIN: https://www.linkedin.com/in/haritha-s-15599a31a/
 ---
 
