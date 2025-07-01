@@ -3,6 +3,7 @@
 A self-built Power BI dashboard analyzing real-world e-commerce data to uncover product, customer, and regional insights. Designed to answer key business questions and deliver actionable recommendations using DAX, product metrics, and consulting frameworks.
 
 👉 **[Click here to view the project PPT: https://github.com/06-10-2004/product-analytics-Powerbi-dashboard/blob/main/compressed_From-Data-to-Decisions-A-Product-Analytics-Journey%20(1).pptx ] 
+
       LINKED IN: https://www.linkedin.com/in/haritha-s-15599a31a/
 ---
 
