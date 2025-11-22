@@ -2,7 +2,7 @@
 
 A self-built Power BI dashboard analyzing real-world e-commerce data to uncover product, customer, and regional insights. Designed to answer key business questions and deliver actionable recommendations using DAX, product metrics, and consulting frameworks.
 
- **[Click here to view the project PPT: https://github.com/06-10-2004/product-analytics-Powerbi-dashboard/blob/main/compressed_From-Data-to-Decisions-A-Product-Analytics-Journey%20(1).pptx ] 
+ **[Click here to view the project PPT: https:
 
       LINKED IN: https://www.linkedin.com/in/haritha-s-15599a31a/
 ---
@@ -114,10 +114,10 @@ This dashboard uncovers trends in customer behavior, product performance, and re
 ---
 
 ## Conclusion:
-     This self-driven Power BI project demonstrates how data can be transformed into business strategy. By combining transactional data, product metrics, and DAX logic, I uncovered meaningful patterns in product performance, regional revenue, and customer behavior.
+   -  This self-driven Power BI project demonstrates how data can be transformed into business strategy. By combining transactional data, product metrics, and DAX logic, I uncovered meaningful patterns in product performance, regional revenue, and customer behavior.
 
-    More than just visuals, this dashboard answers real business questions — like which product to push, what day to run promotions, and which user segments offer the most value. It blends technical proficiency, data storytelling, and a consulting mindset.
+   - More than just visuals, this dashboard answers real business questions — like which product to push, what day to run promotions, and which user segments offer the most value. It blends technical proficiency, data storytelling, and a consulting mindset.
 
-    Ultimately, this project reflects my ability to think critically with data, translate insights into decisions, and build tools that drive business clarity — skills that I’m excited to bring into real-world data roles.
+   - Ultimately, this project reflects my ability to think critically with data, translate insights into decisions, and build tools that drive business clarity — skills that I’m excited to bring into real-world data roles.
 
 
